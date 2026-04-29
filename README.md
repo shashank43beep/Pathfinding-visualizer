@@ -24,4 +24,4 @@ A Python + Pygame project that visualizes pathfinding algorithms:
 python main.py
 
 ##Demo
-![Pathfinding Demo](demo.gif)
+![Pathfinding Demo](assets/demo.gif)
