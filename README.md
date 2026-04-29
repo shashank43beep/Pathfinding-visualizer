@@ -22,3 +22,6 @@ A Python + Pygame project that visualizes pathfinding algorithms:
 ## Run
 ```bash
 python main.py
+
+##Demo
+![Pathfinding Demo](demo.gif)
